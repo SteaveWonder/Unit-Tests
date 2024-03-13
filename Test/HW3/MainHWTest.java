@@ -27,12 +27,12 @@ public class MainHWTest {
         assertFalse(test.evenOddNumber(n));
     }
 
-
     @ParameterizedTest
     @ValueSource(ints = {26,47,66,99})
     void numberInInterval(int n) {
         assertTrue(test.numberInInterval(n));
     }
+
     @ParameterizedTest
     @ValueSource(ints = {5,19,117,250})
     void numberNotInInterval(int n) {
