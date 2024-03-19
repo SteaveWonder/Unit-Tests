@@ -16,5 +16,7 @@
     <orderEntry type="library" name="mockito-core-5.11.0" level="project" />
     <orderEntry type="library" name="byte-buddy-1.14.12" level="project" />
     <orderEntry type="library" name="byte-buddy-agent-1.14.12" level="project" />
+    <orderEntry type="library" name="selenium-java-4.18" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
